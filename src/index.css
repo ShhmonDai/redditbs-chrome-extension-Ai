@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+body {
+    width: 800px;
+    /* Add width */
+    height: 400px;
+    /* Add height */
+    margin: 0;
+}
