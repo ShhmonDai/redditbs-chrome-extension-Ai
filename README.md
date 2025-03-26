@@ -11,6 +11,8 @@
 
 
 <h1 align='center'>
+
+![3yyw5jihLl](https://github.com/user-attachments/assets/c46bfef9-ac26-42d7-b74d-db274b966dab)
            
 
 ## 🎯 Features
@@ -26,4 +28,12 @@
 - `OpenAI API`
 - `Axios`
 - `Tailwind`
+
+# 🍿 Screenshots
+
+![vfoQD0LBim](https://github.com/user-attachments/assets/20c6af74-d5be-4f93-901e-41f56d396a9c)
+![bT5rDGp1YX](https://github.com/user-attachments/assets/125d240f-50ee-4cc6-bfeb-bdf35c9ba3a5)
+![3yyw5jihLl](https://github.com/user-attachments/assets/c46bfef9-ac26-42d7-b74d-db274b966dab)
+
+
 
